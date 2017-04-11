@@ -1,0 +1,10 @@
+3
+a
+b
+c
+insert 0 d
+insert 2 d
+unique
+frequency
+append z
+print
